@@ -13,4 +13,4 @@ These are the steps to run the program:
 5. For the ```--model_name``` argument, you have to provide both the policy and target network. Separate them with comma (,) and no spaces, for example ```python sonic_dqn.py --train_mode False --load_model True --model_name my-policy-net,my-target-net```
 
 # Results
-The results can be seen in the report file ..., or for a more visual results, refer to the accompanying video here: https://youtu.be/ZgS3YwhV_5w
+The results can be seen in the report file ```./Report/Indra Imanuel_20215136_HW2_Gym-Retro Experiment.pdf```, or for a more visual results, refer to the accompanying video here: https://youtu.be/ZgS3YwhV_5w
